@@ -130,7 +130,7 @@ input:focus {
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 70%;
         background: url(https://dl4.fara-download.ir/imgfa/2020/12/28/q_imgfa_ir__5fe9e3d3b9c32_1.jpg);
         
          background-repeat: no-repeat;
